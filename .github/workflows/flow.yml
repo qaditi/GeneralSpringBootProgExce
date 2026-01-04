@@ -12,4 +12,5 @@ jobs:
        uses: actions/setup-java@v5.1.0
        with:
         java-version: 17
+        distribution: microsoft
         
